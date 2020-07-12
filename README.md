@@ -1,2 +1,3 @@
-# Git-Lesson
-for keeping track of my git lessons
+# Git Lessons
+
+for taking notes on my git lessons and practicing git concepts.  
